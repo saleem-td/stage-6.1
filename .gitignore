@@ -1,0 +1,4 @@
+.env
+chromadb.sh
+fastapi.sh
+streamlit.sh
